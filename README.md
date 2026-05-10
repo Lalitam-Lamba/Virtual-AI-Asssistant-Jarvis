@@ -1,4 +1,4 @@
-🤖 Jarvis AI Assistant
+🤖 Jarvis Virtual AI Assistant
 
 An intelligent voice-controlled AI assistant built using Python that can perform various tasks like opening websites, fetching news, playing music, and responding to voice commands—just like a mini Jarvis.
 
